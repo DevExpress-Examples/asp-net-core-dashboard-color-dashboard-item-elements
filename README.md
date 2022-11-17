@@ -14,7 +14,7 @@ The image below displays dashboard items whose values are colored based on their
 
 ![](dashboard-color-elements.png)
 
-## Files to Look At
+## Files to Review
 
 * [elementCustomColor.js](./CS/AspNetCoreDashboardColoring/wwwroot/js/elementCustomColor.js)
 * [Index.cshtml](./CS/AspNetCoreDashboardColoring/Pages/Index.cshtml)
