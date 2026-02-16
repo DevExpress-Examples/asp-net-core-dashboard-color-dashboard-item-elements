@@ -31,7 +31,7 @@ The image below displays dashboard items whose values are colored based on their
 - [Dashboard for ASP.NET Core - How to Customize the Color Palette](https://github.com/DevExpress-Examples/asp-net-core-dashboard-customize-color-palettes)
 - [Dashboard for Web Forms - How to Color the Dashboard Item's Elements on the Client](https://github.com/DevExpress-Examples/web-forms-dashboard-color-dashboard-item-elements)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-core-dashboard-color-dashboard-item-elements&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-core-dashboard-color-dashboard-item-elements&~~~was_helpful=no)
 
